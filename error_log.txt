@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\vandich\Desktop\Бот\bot\main.py", line 43, in <module>
+    from config import BOT_TOKEN
+ModuleNotFoundError: No module named 'config'
